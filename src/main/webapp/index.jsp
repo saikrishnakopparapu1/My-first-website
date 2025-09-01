@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <div class="logo">Spice Delight tandoori</div>
+        <div class="logo">Sai Delight tandoori</div>
         <div class="tagline">Authentic Indian, Chinese & Tandoori Cuisine</div>
         <nav>
             <ul>
