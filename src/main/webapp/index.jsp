@@ -20,7 +20,7 @@
     </header>
     
     <section class="hero">
-        <h1>Delicious Food Delivered to Your Doorstep</h1>
+        <h1>Delicious Food Delivered to Your Doorstep itself</h1>
         <p>Experience the authentic flavors of India, China, and the tandoor with our carefully crafted menu. Order now and get 10% off on your first order!</p>
         <a href="#indian" class="btn">Order Now</a>
     </section>
